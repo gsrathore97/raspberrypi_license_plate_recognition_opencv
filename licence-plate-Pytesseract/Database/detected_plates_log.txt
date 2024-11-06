@@ -1,0 +1,9 @@
+2024-11-06 06:58:39 | Plate: hh | Status: Not Registered
+2024-11-06 06:57:32 | Plate: iMH43PR2356 | Status: Not Registered
+2024-11-06 06:57:31 | Plate: iMH43PR2956 | Status: Not Registered
+2024-11-06 06:57:29 | Plate: BVH43PR2356 | Status: Not Registered
+2024-11-06 06:57:28 | Plate: MH43PR2356 | Status: Not Registered
+2024-11-06 06:55:50 | Plate: UP03MF4477 | Status: Not Registered
+2024-11-06 06:55:18 | Plate: HR26Dk8337 | Status: Not Registered
+2024-11-06 06:55:10 | Plate: HR26DK8337 | Status: Registered
+2024-11-06 06:52:53 | Plate: bh | Status: Not Registered
