@@ -1,6 +1,6 @@
 # raspberrypi_license_plate_recognition_opencv
 steps
-1. git clone http...
+1. git clone https://github.com/gsrathore97/raspberrypi_license_plate_recognition_opencv.git
 2. sudo apt install python3-opencv
 3. Remove restrictions sudo mv /usr/lib/python3.11/EXTERNALLY-MANAGED /usr/lib/python3.11/EXTERNALLY-MANAGED.old
 4. pip install matplotlib
